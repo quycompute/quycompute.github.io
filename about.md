@@ -5,18 +5,18 @@ permalink: /about/
 published: true
 ---
 
-Hello, my name is Quy who love solving business problems using data and mathematics models.
+Hello there, I'm Quy, a data science manager with a passion for leveraging data and mathematical models to solve complex business problems.
 
-### More Information
-I am a data science manager, who have been working in the last 10 years in the data analytic space. With information system engineer background, I lead several successful data project teams. I became interested in data science management and have gone back to school to earn a business management degree. 
+### [My journey](https://drivendata.co/blog/community-spotlight-quy-nguyen)
+With 10+ years of experience in data analytics, I specialize in quantitative analysis, machine learning, and data management for industries ranging from games, news, banking, retail, to e-commerce.
 
-As an individual contributor, I ship complex analytics projects using quantitative analysis and machine learning in marketing, retail, e-commerce. I develop best practices for the entire data science lifecycle, including business problem formulation, data management, modeling, and MLOPs (pipeline, validation, monitoring performance, data change, etc).
+My expertise in the data science lifecycle extends from business problem formulation to modeling and MLOps (pipeline, validation, monitoring performance, data change, etc.), allowing me to deliver successful analytics projects. Additionally, I have 2+ years of experience in building and managing teams of 3-5 data scientists, establishing common goals and accountability to drive team success.
 
-As a leader, I have 2+ years of experience in building and managing teams of 3-5 data scientists. I establish common goals, direction, and accountability among employees. I also contribute to the development of the next generation of data scientists by mentoring interns from local schools.
+I hold a degree in Information System Engineering and Business Management. As a lifelong learner, I actively seek new opportunities to broaden my skill set and knowledge, including participating in modeling competitions such as Kaggle. I am particularly interested in healthcare, supply chain, and agriculture analytics.
 
-As a lifelong learner, I was very into learning through modelling competitions. My proudest achievements include the Kaggle Master and a paper published at the Advanced Data Mining and Application Conference (ADMA) for the winning prize at the Safety for the elderly. Nowadays, I aspire to learn new areas such as leadership and analytics in different business domains especially in healthcare, supply chain and agriculture.
+I am proud to have been awarded [Kaggle Master](https://www.kaggle.com/quyntk) and have had a [paper](https://link.springer.com/chapter/10.1007/978-3-319-69179-4_58) published at the Advanced Data Mining and Application Conference (ADMA) for [winning the Safety for the Elderly prize](https://drivendata.co/blog/sphere-winners/). If you're interested in discussing potential opportunities or learning more about my experience, please feel free to check out my resume and reach out to me.
 
-If there are opportunies, here is [my resume](https://docs.google.com/document/d/1n_F5naZxv_xAi4Cw1Yk0ENqM8OZFzf3SjNypb1SCQe4/edit?usp=sharing). We could to discuss more.
+If there are opportunies, here is [my resume](https://docs.google.com/document/d/1n_F5naZxv_xAi4Cw1Yk0ENqM8OZFzf3SjNypb1SCQe4/edit?usp=sharing). We could discuss more.
 
 ### Contact me
 
