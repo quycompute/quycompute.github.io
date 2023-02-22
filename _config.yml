@@ -35,7 +35,6 @@ paginate: 5
 # Includes an icon in the footer for each username you enter
 footer-links: 
   linkedin: https://sg.linkedin.com/in/quyntk
-  kaggle: https://www.kaggle.com/quyntk
   
 
 # Text under the icons in footer
