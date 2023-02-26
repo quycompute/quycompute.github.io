@@ -7,6 +7,8 @@ tags:
   - goal setting
 comments: true
 ---
+# No.1
+
 After numerous attempts at creating a proper blog and improving my writing, I'm giving it another shot this year. I realized my failure was due to a lack of SMART goals (no target for how many blogs I would write) or because my dreams were too big (i.e publishing every week). This time, I intend to publish 12 posts in 2023. The first blog is a review of my 2022 goals that I wrote at the end of the year. I wrote on Notion, thanks to [Chi Nguyen](https://thepresentwriter.com/) for the [template](https://chi-nguyen.notion.site/Minimalist-Annual-Review-Reset-adf4c0b40bbd4d94b5739e3362915221). Now I'm putting it here to kick off my new blog.
 
 ## Review
@@ -66,5 +68,3 @@ After numerous attempts at creating a proper blog and improving my writing, I'm 
 2. Buy my first house.
 3. Eat Omakase.
 4. Join an MNC, and manage a team of > 10.
-
-
