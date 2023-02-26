@@ -5,6 +5,7 @@ tags:
   - planning
   - roadmap
 comments: true
+title: 2023 Writing Plan
 ---
 # No. 2
 
@@ -27,6 +28,6 @@ At the moment, I am planning 12 post ideas and creating an editorial calendar as
 A few words about this road map:
 1. I designated a release week to ensure that my goal is met on time (**time-bound**). At work, it's critical for me - the manager - to regularly check in with the team to ensure they're on track and to make any necessary adjustments as the project progresses. And having dates and counts for each post on this blog will help me track my progress.
 2. I divide the objectives and milestones into smaller, more manageable tasks and assign realistic timelines to each.
-3. This is, of course, a living roadmap; my future posts may not look exactly like this calendar.
+3. This captures my current topics of interest, and of course, is a living roadmap; my future posts may not look exactly like this calendar.
  
-As a data science manager, I frequently plan to establish clear goals and objectives, ensure proper resource allocation, and ultimately drive outcomes through successful projects. I am applying this skill in my writing as well. I hope this practice helps me develope a writing habit.
+As a data science manager, I frequently plan to establish clear goals and objectives, allocate appropriate resources, and ultimately drive outcomes through successful projects. This ability is also being used in my writing. I'm hoping that this practice will help me develop a writing habit.
